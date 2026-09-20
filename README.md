@@ -4,8 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 🚀 Developing Team Member @ CodeUdaan | Beginner Web Developer | Learning DSA | GSSoC Participant | Building Real-World Projects
 --------------------------------------------------------------------------------------------------------------------------------
 
-\- Part of Developing Team Member @ CodeUdaan - working on core features and improvements.
-
 \- Contributing to open source (GSSoC participant)
 
 \- Learning React and modern web development
