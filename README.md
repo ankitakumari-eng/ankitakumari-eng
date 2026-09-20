@@ -1,46 +1,38 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Ankita kumari
-======================================================================================================================================
+<h1 align="center">Hi 👋, I'm Ankita Kumari</h1>
+<h3 align="center">An aspiring software developer passionate about learning and building</h3>
 
-🚀 Developing Team Member @ CodeUdaan | Beginner Web Developer | Learning DSA | GSSoC Participant | Building Real-World Projects
---------------------------------------------------------------------------------------------------------------------------------
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitakumari-eng&label=Profile%20views&color=0e75b6&style=flat" alt="ankitakumari-eng" /> </p>
 
-\- Contributing to open source (GSSoC participant)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankitakumari-eng" alt="ankitakumari-eng" /></a> </p>
 
-\- Learning React and modern web development
+- 🔭 I’m currently working on **Backend Development with Node.js, Express.js & MongoDB**
 
-\- I love breaking down complex concepts into simple, beginner-friendly explanations.
+- 🌱 I’m currently learning **Node.js, Express.js, MongoDB, Python, Git & GitHub**
 
-\- Skills: HTML, CSS, JavaScript, Git & GitHub, Tailwind CSS
+- 👯 I’m looking to collaborate on **Web Development and Open Source Projects**
 
-* 🌍  I'm based in Bhubaneshwar
-* ✉️  You can contact me at [ankita.kumari002007@gmail.com](mailto:ankita.kumari002007@gmail.com)
-* 🚀  I'm currently working on [Open Source](http://github.com/ankitakumari-eng/AlgoBuddy)
-* 🧠  I'm currently learning "React.js for building interactive UIs" OR "Advanced JavaScript concepts & best practices"
-* 👥  I'm looking to collaborate on "Open source projects | JavaScript tutorials | Beginner-friendly repos"
-* 💬  Ask me about “I believe every beginner can become an amazing developer! 🚀”
+- 🤝 I’m looking for help with **Backend Development and REST API Development**
 
+- 👨‍💻 All of my projects are available at [https://github.com/ankitakumari-eng](https://github.com/ankitakumari-eng)
+
+- 💬 Ask me about **Python, JavaScript, Backend Development & Git**
+
+- 📫 How to reach me **ankita.kumari002007@gmail.com**
+
+- ⚡ Fun fact **I enjoy turning ideas into code.**
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/ankita-kumari-46a0923a4?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ankita-kumari-46a0923a4?utm_source=share_via&utm_content=profile&utm_medium=member_android" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/ankita_kumari001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/ankita_kumari001" height="30" width="40" /></a>
+<a href="https://discord.gg/ankitahqx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ankitahqx" height="30" width="40" /></a>
 </p>
 
-### Socials
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-<p align="left"> <a href="https://www.github.com/ankitakumari-eng" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/ankita-kumari-46a0923a4?utm_source=...hare_via&utm" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a> <a href="https://discord.com/users/ankitahqx" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" title="Discord" /> </picture> </a></p>
-<a href="https://www.github.com/ankitakumari-eng" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/ankitakumari-eng?logo=github&style=for-the-badge&color=22c55e&labelColor=27272a" /></a>
-### Badges
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankitakumari-eng&show_icons=true&locale=en&layout=compact" alt="ankitakumari-eng" /></p>
 
-<b>My GitHub Stats</b>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankitakumari-eng&show_icons=true&locale=en" alt="ankitakumari-eng" /></p>
 
-<a href="http://www.github.com/ankitakumari-eng"><img src="https://github-readme-stats.vercel.app/api?username=ankitakumari-eng&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=ef4444&icon_color=22c55e&bg_color=27272a&hide_border=true&show_icons=true" alt="ankitakumari-eng's GitHub stats" /></a>
-
-<a href="http://www.github.com/ankitakumari-eng"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitakumari-eng&stroke=ef4444&background=27272a&ring=facc15&fire=facc15&currStreakNum=ef4444&currStreakLabel=facc15&sideNums=ef4444&sideLabels=ef4444&dates=ef4444&hide_border=true" /></a>
-
-<a href="https://github.com/ankitakumari-eng" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitakumari-eng&langs_count=10&title_color=facc15&text_color=ef4444&icon_color=22c55e&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/ankitakumari-eng/AlgoBuddy" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ankitakumari-eng&repo=AlgoBuddy&title_color=facc15&text_color=ef4444&icon_color=22c55e&bg_color=27272a&hide_border=true&locale=en" /></a><a href="https://github.com/ankitakumari-eng/netflix-clone" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ankitakumari-eng&repo=netflix-clone&title_color=facc15&text_color=ef4444&icon_color=22c55e&bg_color=27272a&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<a href="https://github.com/ankitakumari-eng/TermUI" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ankitakumari-eng&repo=TermUI&title_color=facc15&text_color=ef4444&icon_color=22c55e&bg_color=27272a&hide_border=true&locale=en" /></a>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitakumari-eng&" alt="ankitakumari-eng" /></p>
